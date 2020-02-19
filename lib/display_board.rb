@@ -3,3 +3,4 @@
 def display_board arg
   puts arg
 end
+display_board ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
