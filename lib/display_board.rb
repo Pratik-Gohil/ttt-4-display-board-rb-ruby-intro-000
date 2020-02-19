@@ -2,5 +2,6 @@
 # out the current state.
 def display_board arg
   puts "O | X |"
+  puts "-----------"
 end
 display_board ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
